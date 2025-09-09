@@ -26,9 +26,7 @@
 
 ## 🌐 Project Unggulan
 
-- 🚀 [DGX SHOP Website](https://github.com/AkikoNotScare/dgx-shop)  
 - 🤖 [Bot WhatsApp](https://github.com/AkikoNotScare/whatsapp-bot)  
-- 🎮 [Game Modding Project](https://github.com/AkikoNotScare/game-modding)  
 
 ---
 
