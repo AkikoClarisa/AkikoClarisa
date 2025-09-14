@@ -1,10 +1,15 @@
 # 👋 Halo, Saya Kiko
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=58A6FF&center=true&vCenter=true&width=500&lines=Halo,+Saya+Kiko!;Web+Dev+%7C+Game+Modding+%7C+Bot+Developer;Always+Learning+New+Things+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=58A6FF&center=true&vCenter=true&width=500&lines=Halo,+Saya+Kiko!;Web+Dev+%7C+Game+Modding+%7C+Bot+Developer;Always+Learning+New+Things+🚀;Selamat+Datang+di+Profile+Gw!" alt="Typing Animation" />
 </p>
 
 ---
+
+<!-- Background Gradient -->
+<p align="center">
+  <img src="https://i.ibb.co/6R9sW6F/gradient-bg.gif" width="100%" alt="Background gradient">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Welcome+to+My+Profile!&fontSize=40&fontColor=ffffff&animation=twinkling" />
