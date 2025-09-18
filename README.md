@@ -34,15 +34,15 @@
 
 ## 📊 Statistik GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AkikoNotScare&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=AkikoClarisa&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkikoNotScare&theme=tokyonight&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkikoClarisa&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
 ## 🚀 Project Unggulan
   
-[![WhatsApp Base Case](https://img.shields.io/badge/WhatsApp-Base%20Case-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/AkikoNotScare/Base-Akiko-Bot)
+[![WhatsApp Base Case](https://img.shields.io/badge/WhatsApp-Base%20Case-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/AkikoClarisa/Base-Akiko-Bot)
 
 ---
 
