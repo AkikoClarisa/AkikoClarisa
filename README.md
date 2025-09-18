@@ -41,10 +41,8 @@
 ---
 
 ## 🚀 Project Unggulan
-
-[![DGX SHOP](https://img.shields.io/badge/DGX%20SHOP-Website-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/AkikoNotScare/dgx-shop)  
-[![WhatsApp Bot](https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/AkikoNotScare/whatsapp-bot)  
-[![Game Modding](https://img.shields.io/badge/Game-Modding-9146FF?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/AkikoNotScare/game-modding)
+  
+[![WhatsApp Base Case](https://img.shields.io/badge/WhatsApp-Base%20Case-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://github.com/AkikoNotScare/Base-Akiko-Bot?tab=readme-ov-file](https://github.com/AkikoNotScare/Base-Akiko-Bot))
 
 ---
 
