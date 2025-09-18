@@ -42,7 +42,7 @@
 
 ## 🚀 Project Unggulan
   
-[![WhatsApp Base Case](https://img.shields.io/badge/WhatsApp-Base%20Case-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://github.com/AkikoNotScare/Base-Akiko-Bot?tab=readme-ov-file](https://github.com/AkikoNotScare/Base-Akiko-Bot))
+[![WhatsApp Base Case](https://img.shields.io/badge/WhatsApp-Base%20Case-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/AkikoNotScare/Base-Akiko-Bot)
 
 ---
 
