@@ -34,11 +34,9 @@
 
 ## 📊 Statistik GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkikoNotScare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkikoNotScare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=AkikoNotScare&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-![Profile views](https://komarev.com/ghpvc/?username=AkikoNotScare&color=58A6FF&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/AkikoNotScare?style=social)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkikoNotScare&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
@@ -52,10 +50,11 @@
 
 ## 📱 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@USERNAME)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/INVITE)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/k1ko.lmc)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@justkikogame)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/d8muqggAFA)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AkikoTheLuckyPerson)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AkikoJunifer)  
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
